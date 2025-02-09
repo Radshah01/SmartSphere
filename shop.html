@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <title>Smart Sphere Shop</title>
+</head>
+<body>
+    <header class="header-page">
+
+        <nav>
+            <a href="#" id="menu-list"></a>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+        <h1>Smart Sphere</h1>
+        <img src="images/shopping-bag.png" alt="Shopping Cart Icon" width="32" height="32">
+    </header>
+
+    <section class="user-result">
+        <h2>Shop All</h2>
+        <div class="filter-shop">
+            <h3>Filter Products:</h3>
+        
+            <select name="category-type" class="category-type">
+                <option value="" disabled selected>Select a Category</option>
+                <option value="All">All Products</option>
+                <option value="Decoration">Smart Decoration</option>
+                <option value="Devices">Smart Devices</option>
+                <option value="Security">Smart Security</option>
+                <option value="Sensors">Smart Sensors</option>
+            </select>
+            <select name="category-sort" class="category-sort">
+                <option value="" disabled selected>Sort By</option>
+                <option value="Best">Best Sellers</option>
+                <option value="High to Low">Price (Highest to Lowest)</option>
+                <option value="Low to High">Price (Lowest to Highest)</option>
+            </select>
+            <button class="btnSearch" id="btnSearch">Search</button>
+            <button class="btnClear" id="btnClear">Clear</button>
+        </div>
+    </section>
+    <section class="shop-all">
+        <div class="container-products">
+            <div class="product">
+                <img src="images/amazon-echo-bundle.jpeg" alt="amazon echo bundle" width="612" height="612">
+                <h3>Amazon Echo Bundle</h3>
+                <h4>$159.99</h4>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/security-nest-doorbell.jpg" alt="google nest security doorbell" width="500" height="500">
+                <h3>Google Nest Doorbell</h3>
+                <h4>$189.99</h4>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/sensor-nest-wifi-thermostat.jpg" alt="google nest wifi thermostat" width="500" height="500">
+                <h3>Google Nest Wi-Fi Thermostat</h3>
+                <h4>159.99</h4>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/security-ring-floodlight.jpg" alt="ring security floodlight" width="500" height="500">
+                <h3>Ring Floodlight Cam Wired</h3>
+                <h4>249.99</h4>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/sensor-nest-thermostat.jpg" alt="google nest thermostat" width="500" height="500">
+                <h3>Google Nest Thermostat</h3>
+                <h4>$324.99</h4>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/sensor-ring-contact.jpg" alt="ring contact sensor" width="500" height="500">
+                <h3>Ring Alarm Contact Sensor</h3>
+                <h4>$49.99</h4>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/security-tplink-tapo-.jpg" alt="TP-link Tapo security camera" width="425" height="434">
+                <h3>TP-Link Tapo Camera</h3>
+                <h4>$49.99</h4>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/bundle-amazon.jpg" alt="amazon bundle" width="500" height="500">
+                <h3>Amazon Smart Bundle</h3>
+                <h4>$82.99</h4>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/decoration-philips-smart-bulb.jpg" alt="philips smart bulb decoration" width="500" height="500">
+                <h3>Philips Smart Bulb</h3>
+                <h4>$167.99</h4>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/bundle-security-ring.jpg" alt="ring security bundle" width="500" height="500">
+                <h3>Ring Security Bundle</h3>
+                <h4>$399.99</h4>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/security-ring-2nd-generation.jpg" alt="ring security doorbell" width="500" height="500">
+                <h3>Ring Security Doorbell</h3>
+                <h4>$119.99</h4>
+                <button>Add to Cart</button>
+            </div>
+            <div class="product">
+                <img src="images/security-nest-cam.jpg" alt="google nest security camera" width="500" height="500">
+                <h3>Google Nest Camera</h3>
+                <h4>$125.99</h4>
+                <button>Add to Cart</button>
+            </div>
+        </div>
+        <button class="load-more-options">Load more</button>
+    </section>
+        
+
+    <section class="newsletter">
+        <h2>5% Discount on Your First Purchase!<br>Subscribe to our newsletter.</h2>
+        <input type="email" name="email" placeholder="Your email address">
+        <button class="newsletter-subscribe">Subscribe</button>
+    </section>
+
+    <footer class="footer-page">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="shop.html">Shop</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+
+        <p>Follow Us</p>
+        <ul class="follow-us">
+            <li><a><img src="images/facebook.png" alt="facebook icon" width="32" height="32"></a></li>
+            <li><a><img src="images/instagram.png" alt="instagram icon" width="32" height="32"></a></li>
+            <li><a><img src="images/twitter-alt.png" alt="twitter icon" width="32" height="32"></a></li>
+            <li><a><img src="images/linkedin.png" alt="linkedin icon" width="32" height="32"></a></li> 
+        </ul>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,41 @@
+﻿IMAGE SOURCES
+
+
+about-us-banner.jpeg  https://home.onehowto.com/article/how-to-create-natural-light-indoors-13260.html 
+alexa-emblem.png  https://developer.amazon.com/en-US/docs/alexa/alexa-voice-service/logo-and-brand.html 
+amazon-display  https://www.zdnet.com/home-and-office/smart-home/the-amazon-echo-show-10-is-22-off-today/ 
+amazon-echo-bundle.jpeg  https://www.rd.com/list/must-have-alexa-accessories/ 
+banner-sensor.jpg https://www.digitaltrends.com/home/google-nest-thermostat-2020-review/ 
+bundle-amazon.jpg  https://www.bestbuy.ca/en-ca/product/amazon-echo-show-5-3rd-gen-smart-display-with-alexa-smart-led-light-bulb-charcoal-multi-colour/B0018010 
+bundle-security-ring.jpg  https://www.bestbuy.ca/en-ca/product/ring-alarm-9-piece-security-kit-2nd-gen-english/14927800 
+decoration-philips-smart-bulb.jpg https://www.amazon.ca/Philips-HueWCA-9-5W-A19-E26/dp/B08D9NR53C 
+
+
+https://www.flaticon.com/
+discount.png  
+facebook.png
+free-shipping.png
+instagram.png
+linkedin.png
+twitter-alt.png
+shopping-bag.png
+menu-icon.png
+money.png
+
+
+google-nest-bundle  https://www.pinterest.ca/pin/532902568422896333/ 
+google-security-camera.jpeg https://blog.google/intl/en-au/products/devices-services/new-google-nest-latest-cams-and-doorbell-are-coming/ 
+nest-emblem.png https://store.google.com/category/connected_home?hl=en-GB 
+nest-security-devices.jpg https://blog.google/products/google-nest/new-google-nest-latest-cams-and-doorbells-are-here/ 
+Ring-embelm.png ring.com https://ring.com/ca/en 
+security-nest-cam.jpg https://www.amazon.ca/Nest-Cam-Indoor-Wired-Snow/dp/B0 9J6Y8Y73 
+security-nest-doorbell.jpg https://www.amazon.ca/Google-Nest-Doorbell-Battery-Wireless/dp/B09HXKRZSZ 
+security-ring-2nd-generation.jpg https://www.bestbuy.ca/en-ca/product/ring-wi-fi-video-doorbell-2nd-generation-venetian-bronze/15254430 
+security-ring-floodlight.jpg https://www.bestbuy.ca/en-ca/product/ring-floodlight-cam-wired-plus-outdoor-1080p-hd-ip-camera-black/15341705 
+security-tplink-tapo-.jpg https://www.amazon.ca/TP-Link-Tapo-Wireless-Security-C200/dp/B0829KDY9X 
+sensor-nest-thermostat.jpg https://www.bestbuy.ca/en-ca/product/nest-nest-wi-fi-smart-thermostat-3rd-generation-t3007ef/10389044 
+sensor-nest-wifi-thermostat.jpg https://www.bestbuy.ca/en-ca/product/google-nest-wi-fi-smart-thermostat-sand/16932984 
+sensor-ring-contact.jpg https://www.bestbuy.ca/en-ca/product/ring-alarm-wireless-contact-sensor-2nd-gen-2-pack-white/14582233 
+smart-home.jpeg https://medium.com/@smarthomewedo/wireless-home-automationwireless-home-automation-revolutionizing-your-lifestyle-wedosmarthome-ae-13320b182b60 
+smart-lights-room.jpeg https://www.signify.com/en-us/our-company/news/press-release-archive/2018/20180118-philips-lighting-expands-friends-of-hue-program-to-include-four-north-american-home-lighting-manufacturers 
+speaker-amazon-echo.jpg https://www.bestbuy.ca/en-ca/product/amazon-echo-dot-5th-gen-smart-speaker-with-alexa-charcoal/16538040
